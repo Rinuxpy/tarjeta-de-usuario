@@ -1,0 +1,32 @@
+@charset "utf-8";
+.tarjeta{
+  margin: auto;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  width:620px;
+  border: 1px solid lightgray;
+  box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+  border-radius:15px;
+  font-family: sans-serif;
+}
+.ima{
+  margin: -40px -20px 20px 30px;
+  padding: 1px;
+  border:3px solid white;
+  border-radius: 50px;
+}
+.titulo{
+  font-size: 24px;
+  padding: 10px 10px 0 10px;;
+}
+.cuerpo{
+  padding: 10px;
+}
+.encabezado{
+  background: #6699ff;
+  width: 600px;
+  height: 80px;;
+  padding: 10px;
+  text-align:center;
+} 
